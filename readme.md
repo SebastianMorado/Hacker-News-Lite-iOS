@@ -1,6 +1,6 @@
 # Hacker News Lite
 
-<img src="" height="700"> <img src="" height="700">
+<img src="https://github.com/SebastianMorado/Hacker-News-Lite-iOS/blob/main/Documentation/1.png" height="700"> <img src="https://github.com/SebastianMorado/Hacker-News-Lite-iOS/blob/main/Documentation/2.png" height="700">
 
 ## What is it?
 
