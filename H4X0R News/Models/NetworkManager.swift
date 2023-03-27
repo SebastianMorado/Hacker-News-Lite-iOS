@@ -18,7 +18,6 @@ class NetworkManager: ObservableObject {
             let session = URLSession(configuration: .default)
             let task = session.dataTask(with: url) { (data, response, error) in
                 if error == nil {
-                    print("hello :3")
                     let decoder = JSONDecoder()
                     if let safeData = data {
                         do {

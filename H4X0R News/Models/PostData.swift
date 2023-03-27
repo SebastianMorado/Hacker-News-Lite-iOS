@@ -18,5 +18,6 @@ struct Post: Decodable, Identifiable {
     let objectID : String
     let title : String
     let points : Int
+    let created_at: String
     let url : String?
 }
